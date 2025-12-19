@@ -5,8 +5,8 @@
 
 ### Установка
 ```
-git clone https://github.com/gogulya/snakemake124.git
-cd snakemake124
+git clone https://github.com/gogulya/snkmk.git
+cd snkmk
 conda activate snakemake-env
 snakemake --cores 1
 type output.txt
